@@ -326,7 +326,7 @@ const Checkout = () => {
 
           <Link
             to="/products"
-            className="inline-flex mt-7 px-6 py-3 rounded-lg bg-black text-white hover:bg-gray-800 transition"
+            className="inline-flex mt-7 px-6 py-3 rounded-lg bg-black !text-white hover:bg-gray-800 transition"
           >
             Continue Shopping
           </Link>
