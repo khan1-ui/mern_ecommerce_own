@@ -91,7 +91,7 @@ const Navbar = () => {
               <span>
                 <strong>
                   {import.meta.env.VITE_STORE_NAME ||
-                    "Nexora Store"}
+                    "ডেমো অনলাইন শপ"} 
                 </strong>
 
                 <small>
